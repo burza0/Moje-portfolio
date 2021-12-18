@@ -46,9 +46,9 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Testerzy.pl
 
 ## Zaprojektowane przypadki testowe dla serwisów
- - www.tvn.pl
- - www.bankier.pl
- - www.mediamarkt.pl
+ - tvn.pl
+ - bankier.pl
+ - mediamarkt.pl
 
 ## Plany testów
  - tvn.pl
