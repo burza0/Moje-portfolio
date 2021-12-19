@@ -58,12 +58,12 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
 ## Moje projekty
 ### Testy serwisu tvn.pl
+ 
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
- <a 
- - stworzenie planu testów 
+ <a href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing">
+  - stworzenie planu testów 
  - opracowanie scenariuszy i przypadków testowych
  - sporządzenie raportu z przeprowadzonych testów
- href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing"
  </a>
  - dodatkowo sprawdzono responsywność oraz dostępność strony
  
