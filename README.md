@@ -80,7 +80,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  ### Testy przykładowego sklepu skleptest.pl
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
 
- <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing
+ <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing>
 
     Mind mapa dla przykłądowego sklepu skleptest.pl
 
