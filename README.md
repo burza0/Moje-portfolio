@@ -60,6 +60,9 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 ### Testy serwisu tvn.pl
  
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
+  <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
+    - Mind mapa dla serwisu Tvn.pl
+</a>
  - stworzenie planu testów 
  - opracowanie scenariuszy i przypadków testowych
  - sporządzenie raportu z przeprowadzonych testów 
@@ -67,12 +70,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  <a href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing">
     - Raport z testów serwisu Tvn.pl
 </a>
- <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
-    - Mind mapa dla serwisu Tvn.pl
-</a>
-    
-
-
+ 
  ### Testy przykładowego sklepu skleptest.pl
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
 
