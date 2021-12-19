@@ -51,16 +51,19 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - mediamarkt.pl
 
 ## Plany testów
- - tvn.pl
+ - tvn.pl - test wyszukiwarki
  - stooq.pl - testy funkcjonalności "nowy użytkownik"
  - pracuj.pl
 
-## Moje projekty: testy serwisu tvn.pl
+## Moje projekty
+### Testy serwisu tvn.pl
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
  - stworzenie planu testów 
  - opracowanie scenariuszy i przypadków testowych
  - sporządzenie raportu z przeprowadzonych testów
  - dodatkowo sprawdzono responsywność oraz dostępność strony
+ ### Testy przykładowego sklepu skleptest.pl
+ - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
 
 ## Testy automatyczne
  - tvn.pl - testy wyszukiwarki 
