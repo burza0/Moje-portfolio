@@ -65,8 +65,9 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - sporządzenie raportu z przeprowadzonych testów 
  - dodatkowo sprawdzono responsywność oraz dostępność strony
  <a href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing">
- Raport z testów serwisu Tvn.pl
+ - Raport z testów serwisu Tvn.pl
 </a>
+
  ### Testy przykładowego sklepu skleptest.pl
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
 
