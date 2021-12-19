@@ -85,6 +85,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
     Mind mapa dla przykłądowego sklepu skleptest.pl
 
  </a>   
+ 
 ## Testy automatyczne
  - tvn.pl - testy wyszukiwarki 
  - stooq.pl - testy funkcjonalności "nowy użytkownik"
