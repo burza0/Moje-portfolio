@@ -63,7 +63,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - opracowanie scenariuszy i przypadków testowych
  - sporządzenie raportu z przeprowadzonych testów
  - dodatkowo sprawdzono responsywność oraz dostępność strony
- <a href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing">Test plan, przypadki testowe i raport serwisu Tvn.pl> /a>
+ <a href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing">Test plan, przypadki testowe i raport serwisu Tvn.pl>
 
  ### Testy przykładowego sklepu skleptest.pl
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
