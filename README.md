@@ -62,8 +62,8 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
 
   <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
-  
-        Mind mapa dla serwisu Tvn.pl
+
+    Mind mapa dla serwisu Tvn.pl
 
 </a>
 
