@@ -17,7 +17,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 ## Przebyte kursy i szkolenia
 - Testuj.pl - Wieczorowa Akademia Testowania Plus | Prowadzenie kursu: Karolina Pawłowska i Natalia Pawlak
 - Udemy - Praktyczny kurs testowania oprogramowania
-- Udemy - Testowanie Automatyczne: WebdriverIO, Typtescript, Jenkins - w trakcie
+- Udemy - Testowanie Automatyczne: WebdriverIO, Typtescript, Jenkins
 - Udemy - AWS w 7 dni
 
 ## Wydarzenia w których brałem udział
