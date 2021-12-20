@@ -24,6 +24,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Webinar Sii: "Testy wydajnościowe nowej generacji"
 - Debata Sii: "Wyzwania w automatyzacji testów"
 - Konferencja: "No Bullshit About... Testing 2021. Junior Education"
+- Webinar: "Cypress - część 1" oraz "Cypress - część 2" | Maciej Kucharski
 
 ## Grupy
 - Selenium Test Automation User Group
