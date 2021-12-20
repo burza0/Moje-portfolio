@@ -15,7 +15,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - JIRA, Confluence, Trello, TESTLINK, HTML, CSS, SQL, PYTHON -podstawy, DEV TOOLS, Postman, Jmeter, Git/GitHub, Bitbucket, AWS-podstawy
 
 ## Przebyte kursy i szkolenia
-- Testuj.pl - Wieczorowa Akademia Testowania Plus
+- Testuj.pl - Wieczorowa Akademia Testowania Plus | Prowadzenie kursu: Karolina Pawłowska i Natalia Pawlak
 - Udemy - Praktyczny kurs testowania oprogramowania
 - Udemy - Testowanie Automatyczne: WebdriverIO, Typtescript, Jenkins - w trakcie
 - Udemy - AWS w 7 dni
