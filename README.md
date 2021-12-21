@@ -52,6 +52,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Testerzy.pl
 
 ## Moje projekty
+### Własne CV w postaci strony www utrzymywane w procesie CI/CD 
 ### Przeprowadzone testy automatyczne
  - tvn.pl - testy wyszukiwarki 
  - stooq.pl - testy funkcjonalności "nowy użytkownik"
