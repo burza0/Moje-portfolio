@@ -14,7 +14,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - zgłaszanie błędów
 - podstawowa znajomość platformy BrowserStack
 - testowanie w metodyce AGILE, SCRUM
-- znajomość zagadnień ISTQB
+- **znajomość zagadnień ISTQB**
 
 ## Przebyte kursy i szkolenia
 - Testuj.pl - Wieczorowa Akademia Testowania Plus | Prowadzenie kursu: Karolina Pawłowska i Natalia Pawlak
