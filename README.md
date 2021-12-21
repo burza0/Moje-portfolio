@@ -19,13 +19,16 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Udemy - Praktyczny kurs testowania oprogramowania
 - Udemy - Testowanie Automatyczne: WebdriverIO, Typtescript, Jenkins
 - Udemy - AWS w 7 dni
+- Atlassian Confluence Fundamentals for Beginners 2021
+
 
 ## Wydarzenia w których brałem udział
+- Konferencja: "No Bullshit About... Testing 2021. Junior Education"
 - Webinar Sii: "Testy wydajnościowe nowej generacji"
 - Debata Sii: "Wyzwania w automatyzacji testów"
-- Konferencja: "No Bullshit About... Testing 2021. Junior Education"
-- Webinar: "Cypress - część 1" oraz "Cypress - część 2" | Maciej Kucharski
-
+- Webinar: "Cypress - część 1" oraz "Cypress - część 2" | Maciej Kucharsk
+- Test Warez: "Niestabilne testy w Cypressie" | Paweł Matysiak
+- Test Warez: "Architektura testów w e-commerce" | Patrycja Waszczuk - Zellner
 ## Grupy
 - Selenium Test Automation User Group
 - Manual Tester/QA aspiring tobe become automation angineer
