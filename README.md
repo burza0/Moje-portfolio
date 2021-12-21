@@ -31,7 +31,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Test Warez: "Architektura testów w e-commerce" | Patrycja Waszczuk - Zellner
 ## Grupy
 - Selenium Test Automation User Group
-- Manual Tester/QA aspiring tobe become automation angineer
+- Manual Tester/QA aspiring tobe become automation engineer
 - Software Testing/QA & Automation
 - Software Testing & Automation
 - Testowania oprogramowania
@@ -49,7 +49,6 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Testowanie aplikacji mobilnych
 - Testowanie oprogramowania – Piotr Wicherski
 - Testerzy.pl
-
 ## Zaprojektowane przypadki testowe dla serwisów
  - tvn.pl
  - bankier.pl
@@ -59,8 +58,11 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - tvn.pl - test wyszukiwarki
  - stooq.pl - testy funkcjonalności "nowy użytkownik"
  - pracuj.pl
-
 ## Moje projekty
+### Przeprowadzone esty automatyczne
+ - tvn.pl - testy wyszukiwarki 
+ - stooq.pl - testy funkcjonalności "nowy użytkownik"
+ - pracuj.pl
 ### Testy serwisu tvn.pl
  
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
@@ -90,7 +92,3 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
  </a>   
  
-## Testy automatyczne
- - tvn.pl - testy wyszukiwarki 
- - stooq.pl - testy funkcjonalności "nowy użytkownik"
- - pracuj.pl
