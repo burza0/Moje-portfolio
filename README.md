@@ -51,7 +51,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Testerzy.pl
 
 ## Moje projekty
-### Przeprowadzone esty automatyczne
+### Przeprowadzone testy automatyczne
  - tvn.pl - testy wyszukiwarki 
  - stooq.pl - testy funkcjonalności "nowy użytkownik"
  - pracuj.pl
@@ -84,7 +84,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
  </a>   
  
-## Zaprojektowane przypadki testowe dla serwisów
+ ## Zaprojektowane przypadki testowe dla serwisów
  - tvn.pl
  - bankier.pl
  - mediamarkt.pl
