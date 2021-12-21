@@ -49,15 +49,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Testowanie aplikacji mobilnych
 - Testowanie oprogramowania – Piotr Wicherski
 - Testerzy.pl
-## Zaprojektowane przypadki testowe dla serwisów
- - tvn.pl
- - bankier.pl
- - mediamarkt.pl
 
-## Plany testów
- - tvn.pl - test wyszukiwarki
- - stooq.pl - testy funkcjonalności "nowy użytkownik"
- - pracuj.pl
 ## Moje projekty
 ### Przeprowadzone esty automatyczne
  - tvn.pl - testy wyszukiwarki 
@@ -92,3 +84,12 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
  </a>   
  
+## Zaprojektowane przypadki testowe dla serwisów
+ - tvn.pl
+ - bankier.pl
+ - mediamarkt.pl
+
+## Plany testów
+ - tvn.pl - test wyszukiwarki
+ - stooq.pl - testy funkcjonalności "nowy użytkownik"
+ - pracuj.pl
