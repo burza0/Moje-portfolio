@@ -23,7 +23,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Atlassian Confluence Fundamentals for Beginners 2021
 
 
-## Wydarzenia w których brałem udział
+## Wydarzenia
 - Konferencja: "No Bullshit About... Testing 2021. Junior Education"
 - Webinar Sii: "Testy wydajnościowe nowej generacji"
 - Debata Sii: "Wyzwania w automatyzacji testów"
