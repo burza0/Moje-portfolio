@@ -12,7 +12,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - podstawowa znajomość platformy BrowserStack
 - testowanie w metodyce AGILE, SCRUM
 - znajomość zagadnień ISTQB
-- JIRA, Confluence, Trello, TESTLINK, HTML, CSS, SQL, PYTHON -podstawy, DEV TOOLS, Postman, Jmeter, Git/GitHub, Bitbucket, AWS-podstawy
+- **JIRA, Confluence, Trello, TESTLINK, HTML, CSS, SQL, PYTHON -podstawy, DEV TOOLS, Postman, Jmeter, Git/GitHub, Bitbucket, AWS-podstawy**
 
 ## Przebyte kursy i szkolenia
 - Testuj.pl - Wieczorowa Akademia Testowania Plus | Prowadzenie kursu: Karolina Pawłowska i Natalia Pawlak
