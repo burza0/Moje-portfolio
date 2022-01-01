@@ -1,4 +1,5 @@
 # Portfolio testerskie
+!(https://drive.google.com/file/d/13JPQkcpe2hW0E6sYEksxBxc-pI-NAWR9/view?usp=sharing)
 ## O Mnie
 Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szeroko pojętą branżą QA. Zawsze zwracałem szczególną uwagę na rzeczy które nie działają poprawnie lub są niefunkcjonalne i chciałem je ulepszać. Moje umiejętności techniczne oraz interpersonalne tworzą dobry fundament aby być świetnym testerem oprogramowania.
 
