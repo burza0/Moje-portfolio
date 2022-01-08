@@ -17,6 +17,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - **znajomość zagadnień ISTQB**
 
 ## Przebyte kursy i szkolenia
+- Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver
 - Testuj.pl - Wieczorowa Akademia Testowania Plus | Prowadzenie kursu: Karolina Pawłowska i Natalia Pawlak
 - Udemy - Praktyczny kurs testowania oprogramowania
 - Udemy - Testowanie Automatyczne: WebdriverIO, Typtescript, Jenkins
@@ -31,6 +32,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - Webinar: "Cypress - część 1" oraz "Cypress - część 2" | Maciej Kucharsk
 - Test Warez: "Niestabilne testy w Cypressie" | Paweł Matysiak
 - Test Warez: "Architektura testów w e-commerce" | Patrycja Waszczuk - Zellner
+- AWS x AI - czyli jak stworzyć własny klasyfikator zdjęć + sesja Q&A
 ## Grupy
 - Selenium Test Automation User Group
 - Manual Tester/QA aspiring tobe become automation engineer
