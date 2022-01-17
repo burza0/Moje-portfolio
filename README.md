@@ -86,18 +86,15 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
   - sporządzenie raportu z przeprowadzonych testów
   - Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
-
-
-
 - ### Testy strony tvn.pl
-   - stworzenie planu testów 
-   - opracowanie scenariuszy i przypadków testowych
-   - sporządzenie raportu z przeprowadzonych testów 
-   - sprawdzono responsywność oraz dostępność strony
-   - wykonanie testów eksploracyjnych
-   - przeprowadzono testy automatyczne e2e wyszukiwarki treści
-   - wykonanie raportu z testów
-   - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
+  - stworzenie planu testów 
+  - opracowanie scenariuszy i przypadków testowych
+  - sporządzenie raportu z przeprowadzonych testów 
+  - sprawdzono responsywność oraz dostępność strony
+  - wykonanie testów eksploracyjnych
+  - przeprowadzono testy automatyczne e2e wyszukiwarki treści
+  - wykonanie raportu z testów
+  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
  
       <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
       Mind mapa dla serwisu Tvn.pl 
@@ -107,8 +104,8 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
 
 - ### Testy strony stooq.pl
-   - wykonanie testów eksploracyjnych
-   - przeprowadzono testy automatyczne funkcjonalności - rejestracja nowego użytkownika
+  - wykonanie testów eksploracyjnych
+  - przeprowadzono testy automatyczne funkcjonalności - rejestracja nowego użytkownika
  
 
 - ### Testy przykładowego sklepu skleptest.pl
@@ -119,9 +116,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
       Mind mapa dla przykładowego sklepu skleptest.pl 
       </a>
      
- 
- 
-
+  
 ## Moje plany na rok 2022 
 - ### ukończyć roczny kurs Pyhtona
 - ### zdać egzamin z języka angielskiego poziom B2
