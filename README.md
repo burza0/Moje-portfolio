@@ -86,7 +86,8 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
   - sporządzenie raportu z przeprowadzonych testów
   - Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
-  <a href="https://drive.google.com/file/d/1dOs1cJhl_fhxxqPCbJowMaKba2HxOnW2/view?usp=sharing"> Mind mapa dla serwisu Tvn.pl </a>
+
+  <a href="https://drive.google.com/file/d/1dOs1cJhl_fhxxqPCbJowMaKba2HxOnW2/view?usp=sharing"> Mind mapa dla portalu pracuj.pl </a>
 
 
 - ### Testy strony tvn.pl
@@ -98,6 +99,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - przeprowadzono testy automatyczne e2e wyszukiwarki treści
   - wykonanie raportu z testów
   - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
+
   <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing"> Mind mapa dla serwisu Tvn.pl </a>
 
 - ### Testy strony stooq.pl
@@ -108,7 +110,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
    - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
    - wykonanie testów eksploracyjnych oraz raportowanie znalezionych błędów do aplikacji JIRA
 
-      <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">Mind mapa dla przykładowego sklepu skleptest.pl </a>
+   <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">Mind mapa dla przykładowego sklepu skleptest.pl </a>
      
   
 ## Moje plany na rok 2022 
