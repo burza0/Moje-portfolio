@@ -80,13 +80,37 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
 ## Moje projekty
 
-### Przeprowadzone testy automatyczne
- - tvn.pl - testy wyszukiwarki 
- - stooq.pl - testy funkcjonalności "nowy użytkownik"
- - pracuj.pl
-### Testy serwisu tvn.pl
- 
- - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
+### Testy portalu pracuj.pl
+
+
+
+
+
+
+### Testy strony tvn.pl
+
+
+
+
+
+
+
+### Testy strony stooq.pl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
 
@@ -98,14 +122,22 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - opracowanie scenariuszy i przypadków testowych
  - sporządzenie raportu z przeprowadzonych testów 
  - dodatkowo sprawdzono responsywność oraz dostępność strony
+ - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
+ - wykonanie raportu z testów
+ Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
 
  <a href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing">
     
-    Raport z testów serwisu Tvn.pl
+    
 </a>
  
  ### Testy przykładowego sklepu skleptest.pl
+
+
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
+  
+ - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
+ - wykonanie testów eksploracyjnych oraz raportowanie znalezionych błędów do aplikacji JIRA
 
  <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">
 
@@ -113,19 +145,14 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
  </a>   
  
- ## Zaprojektowane przypadki testowe dla serwisów
- - tvn.pl
- - bankier.pl
- - mediamarkt.pl
 
-## Plany testów
- - tvn.pl - test wyszukiwarki
- - stooq.pl - testy funkcjonalności "nowy użytkownik"
- - pracuj.pl
 
-### Własne CV w postaci strony www utrzymywane w procesie CI/CD 
 
-## Moje plany na ten rok 2022 
-- ### ukończyć roczny kurs Puhtona
+
+ 
+
+## Moje plany na rok 2022 
+- ### ukończyć roczny kurs Pyhtona
 - ### zdać egzamin z języka angielskiego poziom B2
 - ### zdać egzamin ISTQB® Analityk Testów
+- ## Strona moje portfolio z użyciem Javascript, React utrzymywana w procesie CI/CD
