@@ -80,43 +80,16 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
 ## Moje projekty
 
-### Testy portalu pracuj.pl
+- ### Testy portalu pracuj.pl
 
 
 
 
 
 
-### Testy strony tvn.pl
+- ### Testy strony tvn.pl
 
 
-
-
-
-
-
-### Testy strony stooq.pl
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
-
-    Mind mapa dla serwisu Tvn.pl
-
-</a>
 
  - stworzenie planu testów 
  - opracowanie scenariuszy i przypadków testowych
@@ -125,6 +98,23 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
  - wykonanie raportu z testów
  Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
+  <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
+
+    Mind mapa dla serwisu Tvn.pl
+
+</a>
+
+
+
+
+- ### Testy strony stooq.pl
+
+
+
+
+
+
+
 
  <a href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing">
     
@@ -135,9 +125,9 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
 
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
-  
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
  - wykonanie testów eksploracyjnych oraz raportowanie znalezionych błędów do aplikacji JIRA
+ 
 
  <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">
 
@@ -155,4 +145,4 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - ### ukończyć roczny kurs Pyhtona
 - ### zdać egzamin z języka angielskiego poziom B2
 - ### zdać egzamin ISTQB® Analityk Testów
-- ## Strona moje portfolio z użyciem Javascript, React utrzymywana w procesie CI/CD
+- ### Strona moje portfolio z użyciem Javascript, React utrzymywana w procesie CI/CD
