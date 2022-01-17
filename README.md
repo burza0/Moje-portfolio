@@ -86,6 +86,9 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
   - sporządzenie raportu z przeprowadzonych testów
   - Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
+  <a href="https://drive.google.com/file/d/1dOs1cJhl_fhxxqPCbJowMaKba2HxOnW2/view?usp=sharing"> Mind mapa dla serwisu Tvn.pl </a>
+
+
 - ### Testy strony tvn.pl
   - stworzenie planu testów 
   - opracowanie scenariuszy i przypadków testowych
@@ -95,8 +98,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - przeprowadzono testy automatyczne e2e wyszukiwarki treści
   - wykonanie raportu z testów
   - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
- 
-      <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing"> Mind mapa dla serwisu Tvn.pl </a>
+  <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing"> Mind mapa dla serwisu Tvn.pl </a>
 
 - ### Testy strony stooq.pl
   - wykonanie testów eksploracyjnych
