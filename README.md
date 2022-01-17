@@ -81,64 +81,40 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 ## Moje projekty
 
 - ### Testy portalu pracuj.pl
-
-
-
+  - stworzenie planu testów 
+  - opracowanie scenariuszy i przypadków testowych
+  - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
+  - sporządzenie raportu z przeprowadzonych testów
+  - Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
 
 
 
 - ### Testy strony tvn.pl
-
-
-
  - stworzenie planu testów 
  - opracowanie scenariuszy i przypadków testowych
  - sporządzenie raportu z przeprowadzonych testów 
- - dodatkowo sprawdzono responsywność oraz dostępność strony
- - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
+ - sprawdzono responsywność oraz dostępność strony
+ - wykonanie testów eksploracyjnych
+ - przeprowadzono testy automatyczne e2e wyszukiwarki treści
  - wykonanie raportu z testów
- Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
-  <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
-
+ - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
+   <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
     Mind mapa dla serwisu Tvn.pl
-
-</a>
-
-
+   </a>
 
 
 - ### Testy strony stooq.pl
-
-
-
-
-
-
-
-
- <a href="https://drive.google.com/file/d/1cbbarbwJbNRnmFX_6NiTTwJwjShH_nzs/view?usp=sharing">
-    
-    
-</a>
+- wykonanie testów eksploracyjnych
+- przeprowadzono testy automatyczne funkcjonalności - rejestracja nowego użytkownika
  
+
  ### Testy przykładowego sklepu skleptest.pl
-
-
- - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
  - wykonanie testów eksploracyjnych oraz raportowanie znalezionych błędów do aplikacji JIRA
- 
-
- <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">
-
+      <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">
     Mind mapa dla przykłądowego sklepu skleptest.pl
-
- </a>   
+      </a>   
  
-
-
-
-
  
 
 ## Moje plany na rok 2022 
