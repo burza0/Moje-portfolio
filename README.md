@@ -80,7 +80,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
 ## Moje projekty
 
-- ### Testy portalu pracuj.pl
+### Testy portalu pracuj.pl
   - stworzenie planu testów 
   - opracowanie scenariuszy i przypadków testowych
   - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
