@@ -98,20 +98,20 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - przeprowadzono testy automatyczne e2e wyszukiwarki treści
  - wykonanie raportu z testów
  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
-   <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
+ -   <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
     Mind mapa dla serwisu Tvn.pl
    </a>
 
 
 - ### Testy strony stooq.pl
-- wykonanie testów eksploracyjnych
-- przeprowadzono testy automatyczne funkcjonalności - rejestracja nowego użytkownika
+   - wykonanie testów eksploracyjnych
+   - przeprowadzono testy automatyczne funkcjonalności - rejestracja nowego użytkownika
  
 
  ### Testy przykładowego sklepu skleptest.pl
  - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
  - wykonanie testów eksploracyjnych oraz raportowanie znalezionych błędów do aplikacji JIRA
-      <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">
+ -      <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">
     Mind mapa dla przykłądowego sklepu skleptest.pl
       </a>   
  
@@ -121,4 +121,4 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - ### ukończyć roczny kurs Pyhtona
 - ### zdać egzamin z języka angielskiego poziom B2
 - ### zdać egzamin ISTQB® Analityk Testów
-- ### Strona moje portfolio z użyciem Javascript, React utrzymywana w procesie CI/CD
+- ### Skończyć stronę "Moje portfolio" z użyciem Javascript, React utrzymywana w procesie CI/CD
