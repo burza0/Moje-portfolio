@@ -100,14 +100,10 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
       Mind mapa dla serwisu Tvn.pl 
       </a>
 
-
-
-
 - ### Testy strony stooq.pl
   - wykonanie testów eksploracyjnych
   - przeprowadzono testy automatyczne funkcjonalności - rejestracja nowego użytkownika
  
-
 - ### Testy przykładowego sklepu skleptest.pl
    - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
    - wykonanie testów eksploracyjnych oraz raportowanie znalezionych błędów do aplikacji JIRA
