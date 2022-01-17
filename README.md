@@ -111,7 +111,10 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
    - wykonanie testów eksploracyjnych oraz raportowanie znalezionych błędów do aplikacji JIRA
 
    <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">Mind mapa dla przykładowego sklepu skleptest.pl </a>
-     
+
+
+   
+      <a href="https://drive.google.com/drive/folders/1lNW84kP5kur0qlE3DpV_nj0WeC6v_x07?usp=sharing">Mind mapa dla przykładowego sklepu skleptest.pl </a>
   
 ## Moje plany na rok 2022 
 - ### ukończyć roczny kurs Pyhtona
