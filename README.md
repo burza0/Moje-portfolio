@@ -96,7 +96,10 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - wykonanie raportu z testów
   - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
  
-      <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
+      <a 
+      
+      href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
+
       Mind mapa dla serwisu Tvn.pl 
       </a>
 
