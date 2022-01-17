@@ -102,7 +102,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
    <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing">
 Mind mapa dla serwisu Tvn.pl
 
-   </a>
+
 
 
 - ### Testy strony stooq.pl
@@ -116,7 +116,7 @@ Mind mapa dla serwisu Tvn.pl
 
       <a href="https://drive.google.com/file/d/1efkFmma4pR2MaUhLp6Ye51M_pxczyfkx/view?usp=sharing">
     Mind mapa dla przykładowego sklepu skleptest.pl
-      </a>   
+     
  
  
 
