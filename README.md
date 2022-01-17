@@ -69,16 +69,17 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
 ## Blogi
 - bloger_sii
+- Testerzy.pl
 - Automatyzacja testów i testowanie oprogramowania – Testelka.pl
 - Cypress – Naucz się automatyzacji testów
 - QA Labs Blog
 - Od laika do automatyka
 - Testowanie aplikacji mobilnych
 - Testowanie oprogramowania – Piotr Wicherski
-- Testerzy.pl
+
 
 ## Moje projekty
-### Własne CV w postaci strony www utrzymywane w procesie CI/CD 
+
 ### Przeprowadzone testy automatyczne
  - tvn.pl - testy wyszukiwarki 
  - stooq.pl - testy funkcjonalności "nowy użytkownik"
@@ -121,3 +122,10 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
  - tvn.pl - test wyszukiwarki
  - stooq.pl - testy funkcjonalności "nowy użytkownik"
  - pracuj.pl
+
+### Własne CV w postaci strony www utrzymywane w procesie CI/CD 
+
+## Moje plany na ten rok 2022 
+- ### ukończyć roczny kurs Puhtona
+- ### zdać egzamin z języka angielskiego poziom B2
+- ### zdać egzamin ISTQB® Analityk Testów
