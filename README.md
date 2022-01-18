@@ -105,4 +105,4 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - ### ukończyć kurs Pyhtona
 - ### zdać egzamin z języka angielskiego poziom B2
 - ### zdać egzamin ISTQB® Analityk Testów
-- ### Skończyć stronę "Moje portfolio" z użyciem Javascript, React utrzymywana w procesie CI/CD
+- ### skończyć stronę "Moje portfolio" z użyciem Javascript, React utrzymywana w procesie CI/CD
