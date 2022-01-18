@@ -102,7 +102,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 
      
 ## Moje plany na rok 2022 
-- ### ukończyć roczny kurs Pyhtona
+- ### ukończyć kurs Pyhtona
 - ### zdać egzamin z języka angielskiego poziom B2
 - ### zdać egzamin ISTQB® Analityk Testów
 - ### Skończyć stronę "Moje portfolio" z użyciem Javascript, React utrzymywana w procesie CI/CD
