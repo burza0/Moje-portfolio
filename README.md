@@ -72,18 +72,17 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - ### Testy strony tvn.pl
   - stworzenie planu testów 
   - opracowanie scenariuszy i przypadków testowych
-  - sporządzenie raportu z przeprowadzonych testów 
   - sprawdzono responsywność oraz dostępność strony
   - wykonanie testów eksploracyjnych
   - przeprowadzono testy automatyczne e2e wyszukiwarki treści
-  - wykonanie raportu z testów
+  - wykonanie raportu z przeprowadzonych testów
   - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
 
   <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing"> Mind mapa dla serwisu Tvn.pl </a>
 
 - ### Testy strony stooq.pl
   - wykonanie testów eksploracyjnych
-  - przeprowadzono testy automatyczne funkcjonalności - rejestracja nowego użytkownika
+  - przeprowadzono testy automatyczne funkcjonalności "Rejestracja nowego użytkownika"
  
 - ### Testy przykładowego sklepu skleptest.pl
    - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
