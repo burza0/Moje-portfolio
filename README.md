@@ -64,7 +64,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - opracowanie scenariuszy i przypadków testowych
   - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
   - sporządzenie raportu z przeprowadzonych testów
-  - Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
+  - Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tools
 
   <a href="https://drive.google.com/file/d/1dOs1cJhl_fhxxqPCbJowMaKba2HxOnW2/view?usp=sharing"> Mind mapa dla portalu pracuj.pl </a>
 
@@ -76,13 +76,15 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - wykonanie testów eksploracyjnych
   - przeprowadzono testy automatyczne e2e wyszukiwarki treści
   - wykonanie raportu z przeprowadzonych testów
-  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Dev Tools
+  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tools
 
   <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing"> Mind mapa dla serwisu Tvn.pl </a>
 
 - ### Testy strony stooq.pl
   - wykonanie testów eksploracyjnych
   - przeprowadzono testy automatyczne funkcjonalności "Rejestracja nowego użytkownika"
+  - wykonanie raportu z przeprowadzonych testów
+  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tool
  
 - ### Testy przykładowego sklepu skleptest.pl
    - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
