@@ -87,11 +87,11 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
   - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tool
   
  - ### Testy serwisów e-commerce: hansa.com.pl, mwp.biz.pl, play-wood.eu
-  - stworzenie planu testów 
-  - opracowanie scenariuszy i przypadków testowych
-  - wykonanie testów eksploracyjnych
-  - wykonanie raportu z przeprowadzonych testów
-  - użyte narzędzia: Testlink, Dev Tool
+    - stworzenie planu testów 
+    - opracowanie scenariuszy i przypadków testowych
+    - wykonanie testów eksploracyjnych
+    - wykonanie raportu z przeprowadzonych testów
+    - użyte narzędzia: Testlink, Dev Tool
  
 - ### Testy przykładowego sklepu skleptest.pl
    - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
