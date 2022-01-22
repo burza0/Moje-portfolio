@@ -70,8 +70,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
   - przeprowadzono testy automatyczne e2e wyszukiwarki treści
   - wykonanie raportu z przeprowadzonych testów
   - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tools
-
-  <a href="https://github.com/burza0/Testy-Serwisu-TVN.pl.git" > Testalia</a>
+  -   <a href="https://github.com/burza0/Testy-Serwisu-TVN.pl.git" > Testalia</a>
 
 - ### Testy strony stooq.pl
   - wykonanie testów eksploracyjnych
