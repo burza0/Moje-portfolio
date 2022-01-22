@@ -2,21 +2,14 @@
 
 # Portfolio testerskie
 ## O Mnie
-Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szeroko pojętą branżą QA. Zawsze zwracałem szczególną uwagę na rzeczy które nie działają poprawnie lub są niefunkcjonalne i chciałem je ulepszać. Moje umiejętności techniczne oraz interpersonalne tworzą dobry fundament aby być świetnym testerem oprogramowania.
+Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę z branżą IT, a w szczególności z testowaniem oprogramowania. Zawsze zwracałem szczególną uwagę na rzeczy które nie działają poprawnie i chciałem je ulepszać. Moje umiejętności techniczne oraz interpersonalne tworzą dobry fundament aby być świetnym testerem oprogramowania.
 
 ## Umiejętności techniczne oraz narzędzia
-- **JIRA, Confluence, Trello, TESTLINK, HTML, CSS, SQL, JavaScript, PYTHON -podstawy, DEV TOOLS, Postman, Jmeter, Git/GitHub, Bitbucket, axe DevTools - Web Accessibility Testing, AWS-podstawy**
-- testowanie eksploracyjne
-- testowanie automatyczne
-- CI/CD - Integracja testów z Jenkins
-- tworzenie map myśli
-- pisanie przypadków testowych
-- testowanie na podstawie przypadków testowych
-- testowanie w oparciu o specyfikację  
-- zgłaszanie błędów
-- podstawowa znajomość platformy BrowserStack
-- testowanie w metodyce AGILE, SCRUM
-- **znajomość zagadnień ISTQB**
+- znajomość zagadnień ISTQB, testowanie eksploracyjne, testowanie API, testowanie automatyczne, testowanie dostępności, testowanie w oparciu o specyfikację, tworzenie map myśli, zgłaszanie błędów, testowanie w metodykach zwinnych (Agile)
+- narzędzia zarządzania testowaniem: Jira, Confluence, Trello, Testlink, Postman, Jmeter, AXE Dev Tools
+- narzędzia do automatyzacji: Cypress, WebdriverIO, Selenium IDE, Jenkins
+- narzędzia programistyczne: JS, Typescript, Python - podstawy, DEV TOOLS, HTML, CSS, SQL, Git/GitHub, AWS-podstawy
+
 
 ## Przebyte kursy i szkolenia
 - Accessibility - teoria i praktyka w pigułce
