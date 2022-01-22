@@ -5,7 +5,7 @@
 Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szeroko pojętą branżą QA. Zawsze zwracałem szczególną uwagę na rzeczy które nie działają poprawnie lub są niefunkcjonalne i chciałem je ulepszać. Moje umiejętności techniczne oraz interpersonalne tworzą dobry fundament aby być świetnym testerem oprogramowania.
 
 ## Umiejętności techniczne oraz narzędzia
-- **JIRA, Confluence, Trello, TESTLINK, HTML, CSS, SQL, JavaScript, PYTHON -podstawy, DEV TOOLS, Postman, Jmeter, Git/GitHub, Bitbucket, AWS-podstawy**
+- **JIRA, Confluence, Trello, TESTLINK, HTML, CSS, SQL, JavaScript, PYTHON -podstawy, DEV TOOLS, Postman, Jmeter, Git/GitHub, Bitbucket, axe DevTools - Web Accessibility Testing, AWS-podstawy**
 - testowanie eksploracyjne
 - testowanie automatyczne
 - CI/CD - Integracja testów z Jenkins
