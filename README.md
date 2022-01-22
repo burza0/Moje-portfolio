@@ -71,7 +71,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
   - wykonanie raportu z przeprowadzonych testów
   - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tools
 
-  <a href="https://drive.google.com/file/d/1EoAY04kWkP7NErtWJ37pYS_SG5kScHO0/view?usp=sharing"> Mind mapa dla serwisu Tvn.pl </a>
+  <a https://github.com/burza0/Testy-Serwisu-TVN.pl.git > Testalia</a>
 
 - ### Testy strony stooq.pl
   - wykonanie testów eksploracyjnych
