@@ -40,6 +40,7 @@ Nazywam się Mariusz Burzyński. Swoją przyszłość zawodową wiążę z szero
 - **znajomość zagadnień ISTQB**
 
 ## Przebyte kursy i szkolenia
+- Accessibility - teoria i praktyka w pigułce
 - Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver
 - Testuj.pl - Wieczorowa Akademia Testowania Plus | Prowadzenie kursu: Karolina Pawłowska i Natalia Pawlak
 - Udemy - Praktyczny kurs testowania oprogramowania
