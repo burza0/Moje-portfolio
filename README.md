@@ -26,6 +26,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 ## Wydarzenia
 - 3QA: 52 Spotkanie
 - Konferencja: "No Bullshit About... Testing 2021. Junior Education"
+- Webinar: Układanie procesu testowego w zespole
 - Webinar Sii: "Testy wydajnościowe nowej generacji"
 - Debata Sii: "Wyzwania w automatyzacji testów"
 - Webinar: "Cypress - część 1" oraz "Cypress - część 2" | Maciej Kucharsk
