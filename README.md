@@ -12,6 +12,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 - narzędzia pomocne w pracy testera: Bug Magnet, Screencast O Matic, DxDiag, NVDA, AXE Dev Tools
 
 ## Przebyte kursy i szkolenia
+- Szkolenie, Webinar - Jak połączyć automatyczne testy interfejsu z bazą danych
 - Automatyzacja testów w Cypress
 - Accessibility - teoria i praktyka w pigułce
 - Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver
