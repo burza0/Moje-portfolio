@@ -12,10 +12,11 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 - narzędzia pomocne w pracy testera: Bug Magnet, Screencast O Matic, DxDiag, NVDA, AXE Dev Tools
 
 ## Przebyte kursy i szkolenia
-- Automatyzacja testów w Cypress
+- Udemy - Postman od podstaw - testowanie REST API 
+- Udemy - Automatyzacja testów w Cypress
 - Szkolenie, Webinar - Jak połączyć automatyczne testy interfejsu z bazą danych
 - Accessibility - teoria i praktyka w pigułce
-- Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver
+- Udemy - Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver
 - Testuj.pl - Wieczorowa Akademia Testowania Plus | Prowadzenie kursu: Karolina Pawłowska i Natalia Pawlak
 - Udemy - Praktyczny kurs testowania oprogramowania
 - Udemy - Testowanie Automatyczne: WebdriverIO, Typtescript, Jenkins
