@@ -35,6 +35,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 - Test Warez: "Architektura testów w e-commerce" | Patrycja Waszczuk - Zellner
 - AWS x AI - czyli jak stworzyć własny klasyfikator zdjęć + sesja Q&A
 ## Grupy
+- IT security ciekawe materiały
 - Cypress.IO - Polish Community
 - Selenium Test Automation User Group
 - Manual Tester/QA aspiring tobe become automation engineer
