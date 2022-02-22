@@ -100,8 +100,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
     
 ## Moje plany na rok 2022 
 - ### ukończyć kurs Pyhtona / W trakcie odbywania: Pycamp – nauka przez projekty
-- ### skończyć stronę "Moje portfolio" z użyciem Javascript, React utrzymywana w procesie CI/CD / W trakcie odbywania: Programowanie w JavaScript
-Od podstaw do programowania zorientowanego obiektowo
+- ### skończyć stronę "Moje portfolio" z użyciem Javascript, React utrzymywana w procesie CI/CD / W trakcie odbywania: Programowanie w JavaScript Od podstaw do programowania     zorientowanego obiektowo
 
 ## Kierunki rozwoju
 - ### Testowanie automatyczne, cyberbezpieczeństwo, technologie chmurowe
