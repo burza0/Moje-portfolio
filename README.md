@@ -21,8 +21,11 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 - Udemy - Praktyczny kurs testowania oprogramowania
 - Udemy - Testowanie Automatyczne: WebdriverIO, Typtescript, Jenkins
 - Udemy - AWS w 7 dni
+- AWS dla developerów - czyli jak budować aplikacje w chmurze
 - Atlassian Confluence Fundamentals for Beginners 2021
 
+## Certyfikaty
+- Certyfikat ISTQB FL
 
 ## Wydarzenia
 - 3QA: 52 Spotkanie
@@ -34,6 +37,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 - Test Warez: "Niestabilne testy w Cypressie" | Paweł Matysiak
 - Test Warez: "Architektura testów w e-commerce" | Patrycja Waszczuk - Zellner
 - AWS x AI - czyli jak stworzyć własny klasyfikator zdjęć + sesja Q&A
+
 ## Grupy
 - IT security ciekawe materiały
 - Cypress.IO - Polish Community
@@ -100,7 +104,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
     
 ## Moje plany na rok 2022 
 - ### ukończyć kurs Pyhtona / W trakcie odbywania: Pycamp – nauka przez projekty
-- ### skończyć stronę "Moje portfolio" z użyciem Javascript, React utrzymywana w procesie CI/CD / W trakcie odbywania: Programowanie w JavaScript Od podstaw do programowania     zorientowanego obiektowo
+- ### skończyć stronę "Moje portfolio" z użyciem Javascript, React utrzymywana w procesie CI/CD / W trakcie odbywania: Programowanie w JavaScript Od podstaw do programowania zorientowanego obiektowo
 
 ## Kierunki rozwoju
 - ### Testowanie automatyczne, cyberbezpieczeństwo, technologie chmurowe
