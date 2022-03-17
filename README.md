@@ -5,7 +5,7 @@
 Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę z branżą IT, a w szczególności z testowaniem oprogramowania. W chwili obecnej rozwijam swoje kompetencje w kierunku automatyzacji z użyciem narzędzi: Cypress oraz Javascript. Zawsze zwracałem szczególną uwagę na rzeczy które nie działają poprawnie i chciałem je ulepszać. Moje umiejętności techniczne oraz interpersonalne tworzą dobry fundament aby być świetnym testerem oprogramowania.
 
 ## Umiejętności techniczne oraz narzędzia
-- certyfikat ISTQB FL, testowanie eksploracyjne, testowanie API, testowanie automatyczne, testowanie dostępności, testowanie w oparciu o specyfikację, tworzenie map myśli, zgłaszanie błędów, testowanie w metodykach zwinnych (Agile)
+- testowanie eksploracyjne, testowanie API, testowanie automatyczne, testowanie dostępności, testowanie w oparciu o specyfikację, tworzenie map myśli, zgłaszanie błędów, testowanie w metodykach zwinnych (Agile)
 - narzędzia zarządzania testowaniem: Jira, Confluence, Trello, Testlink, Postman, Jmeter, AXE Dev Tools
 - narzędzia do automatyzacji: Cypress, WebdriverIO, Selenium IDE, Jenkins
 - narzędzia programistyczne: JS, Typescript, Python - podstawy, DEV TOOLS, HTML, CSS, SQL, Git/GitHub, AWS-podstawy
