@@ -7,7 +7,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 ## Umiejętności techniczne oraz narzędzia
 - testowanie eksploracyjne, testowanie API, testowanie automatyczne, testowanie dostępności, testowanie w oparciu o specyfikację, tworzenie map myśli, zgłaszanie błędów, testowanie w metodykach zwinnych (Agile)
 - narzędzia zarządzania testowaniem: Jira, Confluence, Trello, Testlink, Postman, Jmeter, AXE Dev Tools
-- narzędzia do automatyzacji: Cypress, WebdriverIO, Selenium IDE, Jenkins
+- narzędzia do automatyzacji: Cypress, Playwright, WebdriverIO, Selenium IDE, Jenkins
 - narzędzia programistyczne: JS, Typescript, Python - podstawy, DEV TOOLS, Charles Proxy, HTML, CSS, SQL, Git/GitHub, AWS-podstawy
 - narzędzia pomocne w pracy testera: Bug Magnet, Screencast O Matic, DxDiag, NVDA, AXE Dev Tools
 
