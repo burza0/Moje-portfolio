@@ -6,10 +6,10 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 
 ## Umiejętności techniczne oraz narzędzia
 - testowanie eksploracyjne, testowanie API, testowanie automatyczne, testowanie dostępności, testowanie w oparciu o specyfikację, tworzenie map myśli, zgłaszanie błędów, testowanie w metodykach zwinnych (Agile)
-- narzędzia zarządzania testowaniem: Jira, Confluence, Trello, Testlink, Postman, Jmeter, AXE Dev Tools
+- narzędzia zarządzania testowaniem: Jira, Confluence, Trello, Testlink, Postman, Jmeter
 - narzędzia do automatyzacji: Cypress, Playwright, WebdriverIO, Selenium IDE, Jenkins
-- narzędzia programistyczne: JS, Typescript, Python - podstawy, DEV TOOLS, Charles Proxy, HTML, CSS, SQL, Git/GitHub, AWS-podstawy
-- narzędzia pomocne w pracy testera: Bug Magnet, Screencast O Matic, DxDiag, NVDA, AXE Dev Tools
+- narzędzia programistyczne: JS, Typescript, Python - podstawy, DevTools, Charles Proxy, HTML, CSS, SQL, Git/GitHub, AWS-podstawy
+- narzędzia pomocne w pracy testera: Bug Magnet, Screencast O Matic, DxDiag, NVDA, AXE DevTools
 
 ## Przebyte kursy i szkolenia
 - Udemy - Postman od podstaw - testowanie REST API 
@@ -71,7 +71,7 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
   - opracowanie scenariuszy i przypadków testowych
   - przeprowadzono testy automatyczne e2e wybranych funkcjonalności
   - sporządzenie raportu z przeprowadzonych testów
-  - Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tools
+  - Użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, DevTools
 
   <a href="https://drive.google.com/file/d/1dOs1cJhl_fhxxqPCbJowMaKba2HxOnW2/view?usp=sharing"> Mind mapa dla portalu pracuj.pl </a>
 
@@ -82,21 +82,21 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
   - wykonanie testów eksploracyjnych
   - przeprowadzono testy automatyczne e2e wyszukiwarki treści
   - wykonanie raportu z przeprowadzonych testów
-  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tools, axe Dev Tools
+  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tools, axe DevTools
   -   <a href="https://github.com/burza0/Testy-Serwisu-TVN.pl.git" > Testalia</a>
 
 - ### Testy strony stooq.pl
   - wykonanie testów eksploracyjnych
   - przeprowadzono testy automatyczne funkcjonalności "Rejestracja nowego użytkownika"
   - wykonanie raportu z przeprowadzonych testów
-  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, Dev Tool
+  - użyte narzędzia: Testlink, Mind Map,  Cypress, Javascript, Jenkins, GitHab, DevTools
   
  - ### Testy serwisów e-commerce: hansa.com.pl, mwp.biz.pl, play-wood.eu
     - stworzenie planu testów 
     - opracowanie scenariuszy i przypadków testowych
     - wykonanie testów eksploracyjnych
     - wykonanie raportu z przeprowadzonych testów
-    - użyte narzędzia: Testlink, Dev Tool
+    - użyte narzędzia: Testlink, DevTools
  
 - ### Testy przykładowego sklepu skleptest.pl
    - przygotowanie mind mapy dla opracowania scenariuszy i przypadków testowych
