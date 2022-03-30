@@ -28,6 +28,8 @@ Nazywam się Mariusz Burzyński. Swoją dalszą przyszłość zawodową wiążę
 - Certyfikat ISTQB FL
 
 ## Wydarzenia
+- CodeMeetings #16 - "AWS - jak nie popełnić naszych błędów" RST Software Masters
+- Meetup - "Uszanowanko Programowanko #55 – Co QA może i jak dev dopomoże". 
 - 3QA: 52 Spotkanie
 - Konferencja: "No Bullshit About... Testing 2021. Junior Education"
 - Webinar: Układanie procesu testowego w zespole
