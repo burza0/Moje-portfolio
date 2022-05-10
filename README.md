@@ -12,6 +12,7 @@
 - narzędzia pomocne w pracy testera: Bug Magnet, Screencast O Matic, DxDiag, NVDA, AXE DevTools
 
 ## Przebyte kursy i szkolenia
+- Pycamp – nauka Pythona przez projekty - w trakcie
 - Kurs Docker i Kubernetes – Fundamenty
 - Udemy - Postman od podstaw - testowanie REST API 
 - Udemy - Automatyzacja testów w Cypress
