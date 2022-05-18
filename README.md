@@ -8,7 +8,7 @@
 - testowanie eksploracyjne, testowanie API, testowanie automatyczne, testowanie dostępności, testowanie w oparciu o specyfikację, tworzenie map myśli, zgłaszanie błędów, testowanie w metodykach zwinnych (Agile)
 - narzędzia zarządzania testowaniem: Jira, Confluence, Trello, Testlink, Postman, Jmeter
 - narzędzia do automatyzacji: Cypress, Playwright, WebdriverIO, Selenium IDE, Jenkins
-- narzędzia programistyczne: JS, Typescript, Python - podstawy, DevTools, Charles Proxy, HTML, CSS, SQL, Git/GitHub, AWS-podstawy
+- narzędzia programistyczne: JS, Typescript, Python - podstawy, DevTools, Charles Proxy, HTML, CSS, SQL, Git/GitHub, GitLab, AWS-podstawy
 - narzędzia pomocne w pracy testera: Bug Magnet, Screencast O Matic, DxDiag, NVDA, AXE DevTools
 
 ## Przebyte kursy i szkolenia
